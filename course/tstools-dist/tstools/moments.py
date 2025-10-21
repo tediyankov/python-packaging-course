@@ -17,4 +17,5 @@ def get_mean_and_var(timeseries):
         A tuple which first element is the mean and second the variance.
     """
 
+    print ('Computing mean and variance...')
     return np.mean(timeseries[:, 1]), "######"

@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel", "numpy", "matplotlib", "scipy"]
+
+[project]
+name = "tstools-tdy"
+version = "0.1"
+description = "a cute lil package to analyse time series"
+authors = [
+    {name = "Tedi Yankov", email = "teodor.yankov@new.ox.ac.uk"}
+]
+license = {text = "GPL-3.0-or-later"}
+dependencies = ["numpy", "matplotlib", "scipy"]

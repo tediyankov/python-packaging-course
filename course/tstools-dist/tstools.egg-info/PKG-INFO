@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: tstools
+Version: 0.1
+Summary: a cute lil package to analyse time series
+Home-page: myfancywebsite.com
+Author: Spam Eggs
+Author-email: Tedi Yankov <teodor.yankov@new.ox.ac.uk>
+License: GPL-3.0-or-later
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Dynamic: author
+Dynamic: home-page
